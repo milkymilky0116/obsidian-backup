@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
+                "file": "article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/색채없는 주니어 개발자와 그가 순례를 떠난 해 - 23년 회고.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2899e1a4035bdbfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Article/색채없는 주니어 개발자와 그가 순례를 떠난 해 - 23년 회고.md",
+                "file": "article/Golang 프로젝트 구조를 설계해보기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/색채없는 주니어 개발자와 그가 순례를 떠난 해 - 23년 회고.md",
+                "file": "article/Golang 프로젝트 구조를 설계해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article/색채없는 주니어 개발자와 그가 순례를 떠난 해 - 23년 회고.md",
+                "file": "article/Golang 프로젝트 구조를 설계해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/색채없는 주니어 개발자와 그가 순례를 떠난 해 - 23년 회고.md"
+                "file": "article/Golang 프로젝트 구조를 설계해보기.md"
               }
             }
           }
@@ -171,16 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2899e1a4035bdbfe",
+  "active": "e8da18ae08c4776b",
   "lastOpenFiles": [
-    "Article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
-    "Article/색채없는 주니어 개발자와 그가 순례를 떠난 해 - 23년 회고.md",
-    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
+    "article/Golang 프로젝트 구조를 설계해보기.md",
+    "golang-project.png",
+    "golang-project.drawio.png",
+    "article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
+    "article/내가 끊임없이 새로운 언어를 배우는 이유.md",
     "README.md",
     "etc",
     "Rust/basic.md",
     "etc/12월 월간 메이커스 - 웹브라우저 렌더링 엔진 만들기.md",
-    "Article",
+    "article",
     "Rust/Untitled.md",
     "Rust.md",
     "Rust"
