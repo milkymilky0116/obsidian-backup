@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8da18ae08c4776b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "article/Golang 프로젝트 구조를 설계해보기.md",
+                "file": "article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "article/Golang 프로젝트 구조를 설계해보기.md",
+                "file": "article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "article/Golang 프로젝트 구조를 설계해보기.md",
+                "file": "article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "article/Golang 프로젝트 구조를 설계해보기.md"
+                "file": "article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md"
               }
             }
           }
@@ -159,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8da18ae08c4776b",
+  "active": "4fffd5f728d7d44b",
   "lastOpenFiles": [
+    "스크린샷 2023-12-28 오후 7.36.08.png",
     "article/Golang 프로젝트 구조를 설계해보기.md",
-    "golang-project.png",
-    "golang-project.drawio.png",
+    "article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
     "article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
     "article/내가 끊임없이 새로운 언어를 배우는 이유.md",
+    "golang-project.png",
+    "golang-project.drawio.png",
     "README.md",
     "etc",
     "Rust/basic.md",
