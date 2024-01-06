@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ef21884fe25fbc",
+        "id": "4e2e6cc0bfb299f1",
         "type": "tabs",
         "children": [
           {
-            "id": "4fffd5f728d7d44b",
+            "id": "8a64a539c9be2c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
+                "file": "Article/주니어 개발자는 인프런 강의의 꿈을 꾸는가 - 24년 설계해보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3e6169da50488d39",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
+                "file": "Article/주니어 개발자는 인프런 강의의 꿈을 꾸는가 - 24년 설계해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
+                "file": "Article/주니어 개발자는 인프런 강의의 꿈을 꾸는가 - 24년 설계해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md"
+                "file": "Article/주니어 개발자는 인프런 강의의 꿈을 꾸는가 - 24년 설계해보기.md"
               }
             }
           }
@@ -139,28 +138,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4fffd5f728d7d44b",
+  "active": "8a64a539c9be2c85",
   "lastOpenFiles": [
     "Article/Golang 프로젝트 구조를 설계해보기.md",
+    "Article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
+    "Article/주니어 개발자는 인프런 강의의 꿈을 꾸는가 - 24년 설계해보기.md",
+    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
     "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
-    "README.md",
-    "에러 핸들링.jpeg",
-    "스크린샷 2023-12-29 오후 2.55.41.png",
-    "스크린샷 2023-12-28 오후 7.36.08.png",
+    "image/README.md",
+    "image",
+    "image/에러 핸들링.jpeg",
+    "image/스크린샷 2023-12-29 오후 2.55.41.png",
+    "image/스크린샷 2023-12-28 오후 7.36.08.png",
     "article/Golang 프로젝트 구조를 설계해보기.md",
     "article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
     "article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
     "article/내가 끊임없이 새로운 언어를 배우는 이유.md",
     "golang-project.png",
-    "golang-project.drawio.png",
+    "image/golang-project.drawio.png",
     "etc",
     "Rust/basic.md",
     "etc/12월 월간 메이커스 - 웹브라우저 렌더링 엔진 만들기.md",
