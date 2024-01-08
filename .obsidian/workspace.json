@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md",
+                "file": "Article/백엔드 개발자가 바라본 프론트엔드 - 리액트 다시 생각해보기.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "39f6bcac66f95917",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/jquery.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md",
+                "file": "Article/백엔드 개발자가 바라본 프론트엔드 - 리액트 다시 생각해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md",
+                "file": "Article/백엔드 개발자가 바라본 프론트엔드 - 리액트 다시 생각해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md"
+                "file": "Article/백엔드 개발자가 바라본 프론트엔드 - 리액트 다시 생각해보기.md"
               }
             }
           }
@@ -148,10 +158,15 @@
   },
   "active": "8a64a539c9be2c85",
   "lastOpenFiles": [
-    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
-    "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md",
-    "Article/Golang 프로젝트 구조를 설계해보기.md",
+    "image/스크린샷 2024-01-08 오후 11.49.43.png",
+    "image/스크린샷 2024-01-08 오후 11.26.58.png",
+    "image/스크린샷 2024-01-08 오후 11.20.52.png",
     "Article/자바스크립트여, 안녕 - Go Templ, HTMX 도입기 (1).md",
+    "image/jquery.png",
+    "Article/백엔드 개발자가 바라본 프론트엔드 - 리액트 다시 생각해보기.md",
+    "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md",
+    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
+    "Article/Golang 프로젝트 구조를 설계해보기.md",
     "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
     "image/README.md",
     "image",
