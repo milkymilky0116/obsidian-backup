@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2e6cc0bfb299f1",
+        "id": "fad9e807184e39af",
         "type": "tabs",
         "children": [
           {
-            "id": "8a64a539c9be2c85",
+            "id": "fceecde47f3d0119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/HTMX를 사용하며 느낀 몇가지 생각들.md",
+                "file": "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3e6169da50488d39",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/HTMX를 사용하며 느낀 몇가지 생각들.md",
+                "file": "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article/HTMX를 사용하며 느낀 몇가지 생각들.md",
+                "file": "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/HTMX를 사용하며 느낀 몇가지 생각들.md"
+                "file": "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md"
               }
             }
           }
@@ -146,28 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a64a539c9be2c85",
+  "active": "fceecde47f3d0119",
   "lastOpenFiles": [
-    "image/HTMX/스크린샷 2024-01-09 오후 8.30.00.png",
-    "image/스크린샷 2023-12-28 오후 7.36.08.png",
-    "image/스크린샷 2023-12-29 오후 2.55.41.png",
-    "image/에러 핸들링.jpeg",
-    "image/golang-project.drawio.png",
-    "image/jquery.png",
-    "image/HTMX/server-client(old).png",
-    "image/배구.jpeg",
-    "README.md",
-    "image/HTMX/server-client(jquery).png",
-    "image/HTMX/nextjs-sql.png",
-    "image/HTMX/HTMX-working.png",
+    "image/vim/setting.png",
+    "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
+    "image/vim/nvchad.webp",
+    "image/vim/vim-be-good.png",
+    "image/vim/vimtutor.png",
+    "image/vim/vim_adventure.png",
+    "image/vim/vimModeStateDiagram.svg",
+    "image/vim/vim_meme2.jpeg",
+    "image/vim/vim_meme.jpeg",
+    "image/vim/쿨펀섹.gif",
+    "image/vim/vim.png",
+    "Article/test.md",
+    "Article/Vim 사용기 - VScode는 더이상 쿨하지 않아서....md",
+    "image/vim",
     "Article/HTMX를 사용하며 느낀 몇가지 생각들.md",
+    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
+    "README.md",
     "image/HTMX",
     "image/Untitled.md",
     "etc/12월 월간 메이커스 - 웹브라우저 렌더링 엔진 만들기.md",
     "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
     "Article/HTMX 사용기 (1) - 리액트.md",
     "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md",
-    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
     "Article/Golang 프로젝트 구조를 설계해보기.md",
     "image",
     "article/Golang 프로젝트 구조를 설계해보기.md",
