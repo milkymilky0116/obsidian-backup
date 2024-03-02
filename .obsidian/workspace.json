@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fad9e807184e39af",
+        "id": "382bf763cae0dfa1",
         "type": "tabs",
         "children": [
           {
-            "id": "541f44de66c120bf",
+            "id": "129d9be4d5e3f0b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/Untitled.md",
+                "file": "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Untitled.md",
+                "file": "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article/Untitled.md",
+                "file": "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Untitled.md"
+                "file": "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "541f44de66c120bf",
+  "active": "129d9be4d5e3f0b8",
   "lastOpenFiles": [
-    "Article/Untitled.md",
+    "image/presentation/geultto-thread2.png",
+    "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md",
+    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
+    "image/presentation/geultto-thread.png",
+    "image/presentation",
+    "image/스크린샷 2023-12-28 오후 7.36.08.png",
     "Article/Rust의 비동기 프로그래밍에 대해 알아보기.md",
     "Article/Golang 프로젝트 구조를 설계해보기.md",
-    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
     "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
     "Untitled",
     "image/vim/setting.png",
@@ -161,9 +165,6 @@
     "image/vim/vim_adventure.png",
     "image/vim/vimModeStateDiagram.svg",
     "image/vim/vim_meme2.jpeg",
-    "image/vim/vim_meme.jpeg",
-    "image/vim/쿨펀섹.gif",
-    "image/vim/vim.png",
     "Article/test.md",
     "Article/Vim 사용기 - VScode는 더이상 쿨하지 않아서....md",
     "image/vim",
