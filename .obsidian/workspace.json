@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fceecde47f3d0119",
+            "id": "541f44de66c120bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
+                "file": "Article/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3e6169da50488d39",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
+                "file": "Article/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
+                "file": "Article/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md"
+                "file": "Article/Untitled.md"
               }
             }
           }
@@ -147,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fceecde47f3d0119",
+  "active": "541f44de66c120bf",
   "lastOpenFiles": [
-    "image/vim/setting.png",
+    "Article/Untitled.md",
+    "Article/Rust의 비동기 프로그래밍에 대해 알아보기.md",
+    "Article/Golang 프로젝트 구조를 설계해보기.md",
+    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
     "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
+    "Untitled",
+    "image/vim/setting.png",
     "image/vim/nvchad.webp",
     "image/vim/vim-be-good.png",
     "image/vim/vimtutor.png",
@@ -164,7 +168,6 @@
     "Article/Vim 사용기 - VScode는 더이상 쿨하지 않아서....md",
     "image/vim",
     "Article/HTMX를 사용하며 느낀 몇가지 생각들.md",
-    "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
     "README.md",
     "image/HTMX",
     "image/Untitled.md",
@@ -172,7 +175,6 @@
     "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
     "Article/HTMX 사용기 (1) - 리액트.md",
     "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md",
-    "Article/Golang 프로젝트 구조를 설계해보기.md",
     "image",
     "article/Golang 프로젝트 구조를 설계해보기.md",
     "article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
