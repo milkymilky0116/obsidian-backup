@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "692019356f57833a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Article/HTMX를 사용하며 느낀 몇가지 생각들.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf54c1af361c355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Article/개발자에게도 '히포크라테스 선서'가 필요할까.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f96dc381ee54ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Article/(번역) 애플에서 만든 새로운 Configuration 언어, Pkl🥒 을 소개합니다..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md",
+                "file": "Article/(번역) 애플에서 만든 새로운 Configuration 언어, Pkl🥒 을 소개합니다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md",
+                "file": "Article/(번역) 애플에서 만든 새로운 Configuration 언어, Pkl🥒 을 소개합니다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md"
+                "file": "Article/(번역) 애플에서 만든 새로운 Configuration 언어, Pkl🥒 을 소개합니다..md"
               }
             }
           }
@@ -146,17 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "129d9be4d5e3f0b8",
+  "active": "75f96dc381ee54ab",
   "lastOpenFiles": [
-    "image/presentation/geultto-thread2.png",
+    "Untitled.md",
+    "Article/개발자에게도 '히포크라테스 선서'가 필요할까.md",
     "Article/소심한 취준생이 발표를 하게 된 건에 대하여 - 글또 발표 회고.md",
     "Article/내가 끊임없이 새로운 언어를 배우는 이유.md",
+    "Article/Golang 프로젝트 구조를 설계해보기.md",
+    "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
+    "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
+    "Article/(번역) 애플에서 만든 새로운 Configuration 언어, Pkl🥒 을 소개합니다..md",
+    "Untitled 1.md",
+    "Article/HTMX를 사용하며 느낀 몇가지 생각들.md",
+    "image/presentation/geultto-thread2.png",
     "image/presentation/geultto-thread.png",
     "image/presentation",
     "image/스크린샷 2023-12-28 오후 7.36.08.png",
     "Article/Rust의 비동기 프로그래밍에 대해 알아보기.md",
-    "Article/Golang 프로젝트 구조를 설계해보기.md",
-    "Article/Vim과 사랑에 빠지다 - Vim 입문기 (feat. VSCode).md",
     "Untitled",
     "image/vim/setting.png",
     "image/vim/nvchad.webp",
@@ -168,12 +211,10 @@
     "Article/test.md",
     "Article/Vim 사용기 - VScode는 더이상 쿨하지 않아서....md",
     "image/vim",
-    "Article/HTMX를 사용하며 느낀 몇가지 생각들.md",
     "README.md",
     "image/HTMX",
     "image/Untitled.md",
     "etc/12월 월간 메이커스 - 웹브라우저 렌더링 엔진 만들기.md",
-    "Article/에러 핸들링에 관한 식견 짧은 소고 - (feat. typescript, golang).md",
     "Article/HTMX 사용기 (1) - 리액트.md",
     "Article/주니어 개발자는 지식공유자의 꿈을 꾸는가 - 24년 설계해보기.md",
     "image",
